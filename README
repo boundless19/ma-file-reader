@@ -1,0 +1,1 @@
+maFileReader reads the maya .ma files to query the information that it might include.
